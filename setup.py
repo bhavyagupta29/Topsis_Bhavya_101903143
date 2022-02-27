@@ -8,7 +8,7 @@ setup(
   author = 'Bhavya Gupta',                   # Type in your name
   author_email = 'pgupta_be19@thapar.edu',      # Type in your E-Mail
   url = 'https://github.com/bhavyagupta29/Topsis_Bhavya_101903143',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/Prachiagarwal5678/Topsis-Prachi-101903021/archive/refs/tags/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/bhavyagupta29/Topsis_Bhavya_101903143/archive/refs/tags/v_01.tar.gz',    # I explain this later on
   keywords = ['SOME', 'MEANINGFULL', 'KEYWORDS'],   # Keywords that define your package best
   install_requires=[
           'numpy',
